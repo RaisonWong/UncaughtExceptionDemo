@@ -1,0 +1,6 @@
+framework module Pods_UncaughtExceptionDemo {
+  umbrella header "Pods-UncaughtExceptionDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
